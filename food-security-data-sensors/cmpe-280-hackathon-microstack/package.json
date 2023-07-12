@@ -1,0 +1,48 @@
+{
+  "name": "react-bootstrap-simple-sidebar",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@react-google-maps/api": "^2.18.1",
+    "apexcharts": "^3.37.2",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "d3": "^7.8.3",
+    "ng-apexcharts": "^1.7.4",
+    "papaparse": "^5.4.1",
+    "react": "^16.8.6",
+    "react-apexcharts": "^1.4.0",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-country-flag": "^3.0.2",
+    "react-dom": "^16.8.6",
+    "react-google-charts": "^4.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
